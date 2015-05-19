@@ -1,6 +1,8 @@
-frontend-nanodegree-arcade-game
+Arcade Game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
+- Run game by opening index.html in any browser (preferably chrome)
+- Avoid the gigantic bugs by using the arrow keys!
+- Watch out for the river!  It may save your life but it might sweep you away (swimming up river helps)…
+- You start with 4 lives.  Each Ruby gives you 10 points. Every 100 points gives you one extra life!
+- What is the highest score you can get??  
